@@ -150,6 +150,7 @@ class CustomFileReader {
         return newSentence + " " + count;
     }
 
+
     /**
      * Checks if the object being processed is an
      * instance of this exact class. That includes
