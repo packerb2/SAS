@@ -11,6 +11,7 @@
     <properties>
         <sonar.organization>packerb2-1</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+
         <!-- Java Project Build properties -->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>11</maven.compiler.source>
